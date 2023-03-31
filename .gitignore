@@ -13,3 +13,6 @@ src/user_test
 *.ll
 *.stb
 *.arr
+*.ll-backup
+*.stb-backup
+*.arr-backup
